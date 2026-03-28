@@ -11,7 +11,12 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.5",
+    "lucide-react": "^0.469.0",
+    "sonner": "^1.7.4",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.6.0",
+    "recharts": "^2.15.0"
   },
   "devDependencies": {
     "typescript": "^5",
